@@ -3,7 +3,7 @@
 
 The repository contains the source codes for the manuscript "Emergence of modular structures in co-evolving networks". The source codes are implemented in python.
  
- # System Requirements
+## System Requirements
 
  ```
 python == 3.8.11
@@ -16,7 +16,7 @@ jupyter notebook == 6.4.8
 torch == 1.9.0+cu10
 torch-geometric == 2.2.0
  ```
-# Demo Guide
+## Demo Guide
 
 1. Install and enter the enviroment
 2. Run simulation experiments in the one-dimensional scenario.
@@ -33,7 +33,7 @@ cd ./codes_hD/
 sh run_hD.sh
 ```
 
-# Source Data
+## Source Data
 
 The source data used in the manuscript is available as follows:
 
@@ -45,7 +45,7 @@ The source data used in the manuscript is available as follows:
 
 Flamino, J., Galeazzi, A., Feldman, S., Macy, M.W., Cross, B., Zhou, Z., Serafino, M., Bovet, A., Makse, H.A. and Szymanski, B.K., 2023. Political polarization of news media and influencers on Twitter in the 2016 and 2020 US presidential elections. Nature Human Behaviour, 7(6), pp.904-916.
 
-# File Description
+## File Description
 
 * codes_1D: Folder for simulation experiments in one-dimensional scenario
 
